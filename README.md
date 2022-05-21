@@ -14,6 +14,8 @@ Features :
 
 Usage :
 
+Must have admin priveledges for both encryption and decryption.
+
 "voldemort.py" is used to encrypt the file in the directory.
 
 "decrypt.py" is used for decryption of the file encrypted previously.
